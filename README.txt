@@ -1,6 +1,8 @@
 Для запуска приложения необходимо:
 •	Скачать и установить JVM https://www.java.com/ru/download/
-•	Запустить из проекта jar файл «Parser-0.0.1-SNAPSHOT.jar»
+•	Скачать и установить IntelliJ IDEA https://www.jetbrains.com/ru-ru/idea/
+•	Открыть проект в IntelliJ IDEA
+•	Запустить из проекта jar файл «Parser-0.0.1-SNAPSHOT-spring-boot.jar» или «ParserApplication»
 •	В браузере перейти по ссылке http://localhost:8080/
 
 После запуска приложения и перехода по ссылке http://localhost:8080/ загрузиться интерфейс, с возможностью
